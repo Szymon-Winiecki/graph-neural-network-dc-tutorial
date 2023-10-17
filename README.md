@@ -1,0 +1,1 @@
+Tutorial from [Datacamp](https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial)
